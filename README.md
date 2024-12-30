@@ -24,7 +24,7 @@ Rover:
 3. Two 1s lipo cells
 4. 3D printed chassis (or any chassis of your choice).
 
-First step would be modify the servo motors to achieve continious rotaion. Refer this video: https://www.youtube.com/watch?v=O_brwlF283c
+First step would be modify the servo motors to achieve continuous rotaion. Refer this video: https://www.youtube.com/watch?v=O_brwlF283c
 
 STL file for the chassis can be found here : https://www.printables.com/model/160897-fpv-micro-rc-car/files?lang=de
 
@@ -59,7 +59,7 @@ Find out the MAC address of the esp32 of the rover by uploading the check_mac_ad
 
 Upload the transmitter_v1.ino to the transmitter esp32 and receiver_v1.ino to the rover esp32.
 
-Change the motor pins in the receiver_v1.ino code according to your motor connections connections.
+Change the motor pins in the receiver_v1.ino code according to your motor connections.
 
 
 
